@@ -15,3 +15,4 @@ class DecidaPorMim:
 
 decida = DecidaPorMim()
 decida.Iniciar()
+
